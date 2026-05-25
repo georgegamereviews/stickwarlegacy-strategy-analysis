@@ -10,7 +10,7 @@ This page documents practical gameplay observations, tactical spell usage patter
 
 ---
 
-# Spell Timing Fundamentals
+## Spell Timing Fundamentals
 
 Successful spell usage often depends on:
 - battle timing
@@ -29,7 +29,7 @@ Many experienced players save spells for:
 
 ---
 
-# Early Game Spell Strategy
+## Early Game Spell Strategy
 
 During early campaign stages, players usually benefit more from:
 - stable economy growth
@@ -43,7 +43,7 @@ Overusing spells too early can:
 
 ---
 
-## Common Early Game Mistakes
+### Common Early Game Mistakes
 
 - activating spells immediately after unlocking them
 - using offensive spells without map control
@@ -54,7 +54,7 @@ Early battles are often decided more by economy management than spell aggression
 
 ---
 
-# Defensive Spell Usage
+## Defensive Spell Usage
 
 Defensive spell timing becomes increasingly important during:
 - survival battles
@@ -72,7 +72,7 @@ Many advanced players prioritize survival value over aggressive spell spam.
 
 ---
 
-# Offensive Spell Coordination
+## Offensive Spell Coordination
 
 Offensive spells become far more effective when combined with:
 - frontline pressure
@@ -84,7 +84,7 @@ Random offensive spell usage rarely creates consistent battlefield advantage.
 
 ---
 
-## Effective Offensive Timing
+### Effective Offensive Timing
 
 Offensive pressure usually becomes stronger when:
 - enemy defenses are already weakened
@@ -96,7 +96,7 @@ Battle timing often matters more than raw spell damage.
 
 ---
 
-# Economy & Spell Balance
+## Economy & Spell Balance
 
 One of the most overlooked gameplay concepts in Stick War Legacy is balancing:
 - spell investment
@@ -113,7 +113,7 @@ Advanced players often maintain balanced resource allocation instead of relying 
 
 ---
 
-# Spell Usage During Survival Mode
+## Spell Usage During Survival Mode
 
 Survival battles introduce different tactical priorities compared to standard campaign progression.
 
@@ -128,7 +128,7 @@ Poor spell timing during survival mode can quickly collapse defensive formations
 
 ---
 
-# Tactical Spell Patterns
+## Tactical Spell Patterns
 
 Experienced players frequently follow patterns such as:
 
@@ -142,7 +142,7 @@ Experienced players frequently follow patterns such as:
 
 ---
 
-# Common Gameplay Observations
+## Common Gameplay Observations
 
 Several gameplay patterns consistently appear during difficult battles:
 
@@ -156,7 +156,7 @@ These patterns appear frequently during advanced campaign stages and survival ga
 
 ---
 
-# Battle Positioning & Spell Efficiency
+## Battle Positioning & Spell Efficiency
 
 Spell effectiveness changes heavily depending on:
 - army spacing
@@ -174,7 +174,7 @@ usually gain more long-term value from spell usage.
 
 ---
 
-# Learning Advanced Spell Timing
+## Learning Advanced Spell Timing
 
 Many experienced players improve gradually by:
 - observing failed engagements
@@ -187,7 +187,7 @@ This progression often creates more consistent campaign success than aggressive 
 
 ---
 
-# Additional Gameplay Resources
+## Additional Gameplay Resources
 
 Additional tactical guides, battle analysis, and gameplay discussions can be explored through:
 
