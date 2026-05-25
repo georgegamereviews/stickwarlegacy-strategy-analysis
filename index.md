@@ -23,25 +23,25 @@ Topics covered include:
 Different units become effective at different stages of battle progression. Certain formations work well against aggressive sword-based attacks, while ranged units often become critical during defensive survival phases.
 
 See the complete unit analysis:
-Unit Strategy Documentation
+<a href="https://georgegamereviews.github.io/stickwarlegacy-strategy-analysis/units.html">Unit Strategy Documentation</a>
 
 ### Spell Timing & Resource Usage
 
 Spell usage can heavily influence battle outcomes when combined with correct army positioning and economy timing.
 
 Advanced spell breakdown:
-Spell Strategy Notes
+<a href="https://georgegamereviews.github.io/stickwarlegacy-strategy-analysis/spells.html">Spell Strategy Notes</a>
 
 ### Campaign Progression
 
 Campaign difficulty gradually introduces situations where players must balance defense, economy, and offensive pressure simultaneously.
 
 Campaign progression notes:
-Campaign Tactical Guide
+<a href="https://georgegamereviews.github.io/stickwarlegacy-strategy-analysis/campaign.html">Campaign Tactical Guide</a>
 
 ## Gameplay Learning Resources
 
-Additional gameplay resources, battle explanations, and beginner strategy discussions are available through:
+Additional gameplay resources, battle explanations, and <a href="https://georgegamereviews.github.io/stickwarlegacy-strategy-analysis/beginner-guide.html">beginner strategy</a> discussions are available through:
 - community strategy discussions
 - tactical spreadsheets
 - gameplay walkthrough presentations
