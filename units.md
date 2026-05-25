@@ -12,9 +12,9 @@ This strategy page documents gameplay observations, tactical patterns, and pract
 
 ---
 
-# Miner Strategy
+## Miner Strategy
 
-## Role
+### Role
 Economy & resource generation
 
 Miners are the foundation of every successful battle setup because gold production directly controls army growth speed.
@@ -23,7 +23,7 @@ Many aggressive beginner players underinvest in miners early, which often causes
 
 ---
 
-## Effective Miner Strategies
+### Effective Miner Strategies
 
 - Maintain stable early gold production
 - Avoid overproducing combat units too early
@@ -34,7 +34,7 @@ During longer battles, strong economy management often becomes more important th
 
 ---
 
-## Common Beginner Mistakes
+### Common Beginner Mistakes
 
 - Sending miners too close to enemy pressure
 - Ignoring economy upgrades
@@ -43,9 +43,9 @@ During longer battles, strong economy management often becomes more important th
 
 ---
 
-# Swordwrath Analysis
+## Swordwrath Analysis
 
-## Role
+### Role
 Fast melee offense
 
 Swordwrath units are commonly used for early-game pressure due to their mobility and low deployment cost.
@@ -60,7 +60,7 @@ However, poorly timed Swordwrath attacks often fail against defensive ranged set
 
 ---
 
-## Tactical Observations
+### Tactical Observations
 
 Swordwrath units become significantly stronger when:
 - enemy archers remain unprotected
@@ -71,7 +71,7 @@ Many advanced players use Swordwrath pressure mainly to disrupt enemy economy ra
 
 ---
 
-## Weaknesses
+### Weaknesses
 
 Swordwrath units struggle against:
 - heavy defensive formations
@@ -81,9 +81,9 @@ Swordwrath units struggle against:
 
 ---
 
-# Archer Strategy
+## Archer Strategy
 
-## Role
+### Role
 Defensive ranged support
 
 Archers are among the most efficient defensive units in Stick War Legacy because they can apply constant pressure while remaining protected behind frontline units.
@@ -96,7 +96,7 @@ They are especially effective during:
 
 ---
 
-## Effective Positioning
+### Effective Positioning
 
 Archers perform best when:
 - protected behind melee units
@@ -108,9 +108,9 @@ Poor positioning often causes archers to collapse quickly against aggressive ene
 
 ---
 
-# Spearton Analysis
+## Spearton Analysis
 
-## Role
+### Role
 Defensive frontline control
 
 Speartons provide strong defensive stability and are frequently used to absorb damage while ranged units attack safely from behind.
@@ -123,7 +123,7 @@ Their defensive utility becomes especially important during:
 
 ---
 
-## Strategic Advantages
+### Strategic Advantages
 
 Speartons help:
 - slow aggressive enemy pushes
@@ -135,9 +135,9 @@ Many players underestimate how valuable defensive spacing becomes during difficu
 
 ---
 
-# Magikill Strategy
+## Magikill Strategy
 
-## Role
+### Role
 Area damage & battlefield disruption
 
 Magikill units become dangerous when battles grow larger and enemy formations become more concentrated.
@@ -151,7 +151,7 @@ However, they require proper protection because of their high cost and vulnerabi
 
 ---
 
-## Best Usage Timing
+### Best Usage Timing
 
 Magikill units perform best:
 - during mid-to-late game scaling
@@ -161,9 +161,9 @@ Magikill units perform best:
 
 ---
 
-# Giant Unit Analysis
+## Giant Unit Analysis
 
-## Role
+### Role
 Late-game offensive pressure
 
 Giants are primarily used for:
@@ -175,7 +175,7 @@ Although powerful, Giants can become inefficient if deployed too early without s
 
 ---
 
-## Common Tactical Mistakes
+### Common Tactical Mistakes
 
 Many players:
 - rush Giants too early
@@ -187,7 +187,7 @@ Balanced army composition usually performs better than relying entirely on expen
 
 ---
 
-# Unit Combination Strategies
+## Unit Combination Strategies
 
 Successful battles usually depend more on balanced unit combinations than individual unit strength.
 
@@ -203,7 +203,7 @@ Examples of effective combinations include:
 
 ---
 
-# Tactical Learning Patterns
+## Tactical Learning Patterns
 
 Many advanced players gradually shift from:
 - aggressive unit spam
@@ -217,7 +217,7 @@ This transition often improves campaign consistency significantly.
 
 ---
 
-# Additional Gameplay Resources
+## Additional Gameplay Resources
 
 Further gameplay analysis, tactical explanations, and beginner strategy material can be explored through:
 
