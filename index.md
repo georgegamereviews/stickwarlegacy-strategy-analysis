@@ -1,6 +1,6 @@
-**Stick War Legacy Tactical Analysis Hub**
+# Stick War Legacy Tactical Analysis Hub
 
-**Gameplay Strategy, Unit Data & Tactical Resources**
+## Gameplay Strategy, Unit Data & Tactical Resources
 
 Stick War Legacy contains a surprisingly deep strategy system involving unit timing, economy management, defensive positioning, and spell coordination. Many beginner players focus only on building larger armies, but long-term success often depends on efficient gold management, counter-unit deployment, and battle pacing.
 
@@ -16,30 +16,30 @@ Topics covered include:
 - late-game army scaling
 - beginner battle mistakes
 
-**Tactical Focus Areas**
+## Tactical Focus Areas
 
-**Unit Strategy Analysis**
+### Unit Strategy Analysis
 
 Different units become effective at different stages of battle progression. Certain formations work well against aggressive sword-based attacks, while ranged units often become critical during defensive survival phases.
 
 See the complete unit analysis:
 Unit Strategy Documentation
 
-**Spell Timing & Resource Usage**
+### Spell Timing & Resource Usage
 
 Spell usage can heavily influence battle outcomes when combined with correct army positioning and economy timing.
 
 Advanced spell breakdown:
 Spell Strategy Notes
 
-**Campaign Progression**
+### Campaign Progression
 
 Campaign difficulty gradually introduces situations where players must balance defense, economy, and offensive pressure simultaneously.
 
 Campaign progression notes:
 Campaign Tactical Guide
 
-**Gameplay Learning Resources**
+## Gameplay Learning Resources
 
 Additional gameplay resources, battle explanations, and beginner strategy discussions are available through:
 - community strategy discussions
@@ -52,7 +52,7 @@ Several gameplay observations referenced in this project are based on analysis a
 More gameplay resources:
 <a href="https://thestickwarlagacyapk.com">thestickwarlagacyapk.com</a>
 
-**Community Strategy Discussions**
+## Community Strategy Discussions
 
 Many advanced strategies evolve through player experimentation and community discussions. Useful tactical discussions can often be found on platforms like:
 
